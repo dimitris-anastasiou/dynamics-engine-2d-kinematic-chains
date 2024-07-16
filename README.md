@@ -21,4 +21,4 @@ This project involves implementing a dynamics engine (a.k.a. physics simulator) 
    - Adjusted parameters such as friction, time step size, and applied torques to validate the dynamics engine's accuracy and robustness.
 
 ## Project Structure
-- **arm_dynamics_engine.py**: Main script for implementing the dynamics engine for the 2D kinematic chain.
+- `arm_dynamics_engine.py`: Main script for implementing the dynamics engine for the 2D kinematic chain.
