@@ -3,6 +3,8 @@
 ## Objective
 This project involves implementing a dynamics engine (a.k.a. physics simulator) for a 2D kinematic chain with an arbitrary number of links. The core components of this physics engine are a solver and an integrator, designed to handle external forces and internal constraints, compute accelerations, and update the positions and velocities of the links over time.
 
+[![YouTube Video](https://img.youtube.com/vi/vBX-3_Odsxo/0.jpg)](https://www.youtube.com/watch?v=vBX-3_Odsxo)
+
 ## Key Features
 
 1. **Solver Implementation:**
