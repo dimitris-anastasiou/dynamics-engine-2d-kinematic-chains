@@ -3,7 +3,9 @@
 ## Objective
 This project involves implementing a dynamics engine (a.k.a. physics simulator) for a 2D kinematic chain with an arbitrary number of links. The core components of this physics engine are a solver and an integrator, designed to handle external forces and internal constraints, compute accelerations, and update the positions and velocities of the links over time.
 
-[![YouTube Video](https://img.youtube.com/vi/vBX-3_Odsxo/0.jpg)](https://www.youtube.com/watch?v=vBX-3_Odsxo)
+| 3-Link Robot | 2-Link Robot | 1-Link Robot |
+|---|---|---|
+| [![YouTube Video 1](https://img.youtube.com/vi/vBX-3_Odsxo/0.jpg)](https://www.youtube.com/watch?v=vBX-3_Odsxo) | [![YouTube Video 2](https://img.youtube.com/vi/mm9u_s_-hEk/0.jpg)](https://www.youtube.com/watch?v=mm9u_s_-hEk) | [![YouTube Video 3](https://img.youtube.com/vi/hCSBlupd65Y/0.jpg)](https://www.youtube.com/watch?v=hCSBlupd65Y) |
 
 ## Key Features
 
